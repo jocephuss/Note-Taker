@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
 
 // Path to the database file
-const dbPath = path.join(__dirname, "db/db.json");
+const dbPath = path.join(__dirname, "DB/db.json");
 
 // Helper function to read the database file
 const readDbFile = (callback) => {
