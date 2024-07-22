@@ -2,5 +2,10 @@
   {
     "title": "Test Title",
     "text": "Test text"
+  },
+  {
+    "title": "Note Taker",
+    "text": "It works!!!\n",
+    "id": "75058f9b-3ee8-4856-81c2-d5f2af6bbf00"
   }
 ]
