@@ -27,11 +27,11 @@ This project is licensed under the MIT license. See the [MIT License]([MIT Licen
 
 
 ## Contributing
-N/A
+Joem
 
 ## Tests
 N/A
 
 ## Questions
 For questions about the project, please contact [Jocephuss](https://github.com/Jocephuss).
-You can also reach out directly at N/A.
+You can also reach out directly at rowlandjosiah14@gmail.com.
