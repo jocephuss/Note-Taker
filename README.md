@@ -29,8 +29,15 @@ This project is licensed under the MIT license. See the [MIT License]([MIT Licen
 ## Contributing
 Joem
 
-## Tests
+## Test
 N/A
+
+## Link
+https://note-taker-xucn.onrender.com/
+
+## ScreenShot
+
+![Screenshot 2024-07-21 204454](https://github.com/user-attachments/assets/1a83d3fa-a4aa-4f8e-a993-f3e947b88e37)
 
 ## Questions
 For questions about the project, please contact [Jocephuss](https://github.com/Jocephuss).
